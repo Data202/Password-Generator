@@ -25,7 +25,7 @@ Password Criteria:
 
 * The URL of the deployed application - https://data202.github.io/Password-Generator/
 
-* The URL of the GitHub repository - git@github.com:Data202/Password-Generator.git
+* The URL of the GitHub repository - https://github.com/Data202/Password-Generator.git
 
 
 Screenshot Sample
