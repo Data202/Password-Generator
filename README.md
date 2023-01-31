@@ -23,7 +23,7 @@ Password Criteria:
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
 
-* The URL of the deployed application - 
+* The URL of the deployed application - https://data202.github.io/Password-Generator/
 
 * The URL of the GitHub repository - git@github.com:Data202/Password-Generator.git
 
